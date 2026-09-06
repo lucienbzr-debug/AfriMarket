@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
+openpyxl
+jupyter
+nbformat
+kaleido
+python-docx
+python-pptx
+reportlab
+pymupdf
